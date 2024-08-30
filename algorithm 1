@@ -1,0 +1,10 @@
+enter the value of number;n
+enter the value of divisor;Nth
+set the output to n%Nth
+if remainder==0
+print"It is divisible."
+set x to (output%2)
+if remainder==0
+print"It is an even number"
+else
+print"It is an odd number"
