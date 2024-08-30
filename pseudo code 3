@@ -1,0 +1,22 @@
+START
+
+//input/output
+input number1;num1 
+input number2;num2
+input operator +-%*;o
+
+//variables and initialization
+set sum to 0
+set diff to 0
+
+//process steps
+set sum=num1 + num2
+set diff=num1 - num2
+
+//conditional statements
+if operator is +
+print"the sum is "
+else
+print"the diff is"
+
+END
