@@ -1,0 +1,25 @@
+START
+
+//input/output
+input variable;num1
+input variable;num2
+input variable;num3
+
+//variables and initialization
+ set a,b,c for difference of numbers 
+
+//process steps
+set a to num1-num2
+aet b to num2-num3
+set c to num3-num1
+
+//conditional statements
+ if a>0 and c<0 then
+ print"num1 is the the greatest"
+ else 
+ b>0 then
+ print"num2 is the greatest"
+ else
+ print"num3 is the greatest"
+
+END 
