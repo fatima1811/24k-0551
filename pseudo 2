@@ -1,0 +1,15 @@
+START
+
+//input/output
+input number 1;num1
+input number 2;num2
+input number 3;num3
+
+//variables and initialization
+set a as sum of three numbers
+
+//process steps 
+set a=num1-(-num2)-(-num3)
+print "the sum of three numbers "
+
+END
